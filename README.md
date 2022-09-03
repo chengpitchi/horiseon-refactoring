@@ -27,13 +27,13 @@ THEN I find a concise, descriptive title
 ## Solution 
 
 The following changes are made to the HTML file:
-1. Change the title to a meaning description in the <head> tag. 
-2. Add viewport attribute in the <head> tag. 
-3. Specify the type of the link in the <head> tag. 
-4. Review the attributes in <head> tag to ensure they are in proper ordering. 
-5. Change the <div> tags to <header>, <nav>, <article>, <aside>, <section> and <footer> tag. 
-6. Add title attribute for the <div> tag with background image. 
-7. Add alt attribute for the images in the <img> tag. 
+1. Change the title to a meaning description in the head tag. 
+2. Add viewport attribute in the head tag. 
+3. Specify the type of the link in the head tag. 
+4. Review the attributes in head tag to ensure they are in proper ordering. 
+5. Change the div tags to header, nav, article, aside, section and footer tag. 
+6. Add title attribute for the div tag with background image. 
+7. Add alt attribute for the images in the img tag. 
 8. Add the missing #Id attribute to the search engine optimization section. 
 
 The following changes are made to the CSS file:
@@ -41,12 +41,13 @@ The following changes are made to the CSS file:
 2. Group the repeated class selectors with the same styles to the corresponding section selectors. 
 3. Remove the repeated class seelctors from the file. 
 4. Examine and ensure the order of the selectors lised in the file following the logical sequence. 
+5. Change the background color code to #17579B of aside section after evaluating by Wave tool. 
 
 ## How to review the solution
 
-1. Click the Github Page link to open the page in Chrome browser. On the page, right click "Inspect" to review the code in Dev Mode. 
+1. Click the Github Page link https://chengpitchi.github.io/horiseon-refactoring/ to open the page in Chrome browser. On the page, right click "Inspect" to review the code in Chrome browser Dev Mode.  Use the Wave tool to evaluate the accessibilty of the website. 
 
-2. Click the Github repository link to examine the files in the repository.
+2. Click the Github repository link https://github.com/chengpitchi/horiseon-refactoring to examine the files in the repository.
 
 
 ## Installation 
