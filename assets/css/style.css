@@ -1,13 +1,16 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Set back color of the body element */
 body {
     background-color: #d9dcd6;
 }
 
+/* Styles for header selector */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +18,7 @@ header {
     color: #ffffff;
 }
 
+/* Styles for header logo */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,6 +28,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Styles for navigation bar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,15 +46,18 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Styles for the links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Font side for paragraph text */
 p {
     font-size: 16px;
 }
 
+/* Styles for the background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,16 +67,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* Styles for article element */
 article {
     width: 75%;
     display: inline-block;
@@ -93,6 +92,17 @@ article section h2 {
     font-size: 36px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Styles for aside element */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +130,7 @@ aside section img {
     max-width: 150px;
 }
 
+/* Styles for footer element */
 footer {
     padding: 30px;
     clear: both;
