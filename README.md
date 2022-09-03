@@ -6,7 +6,7 @@ This is the Challenge after completing the Unit 1 of Adelaide University Coding 
 
 ## User Story
 
-AS A marketing agency
+AS A marketing agency, 
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
