@@ -49,6 +49,19 @@ The following changes are made to the CSS file:
 
 2. Click the Github repository link https://github.com/chengpitchi/horiseon-refactoring to examine the files in the repository.
 
+## Live URL 
+
+https://chengpitchi.github.io/horiseon-refactoring/
+
+## Screenshots for the Solution 
+
+![This is the first solution screenshot for the Horiseon webpage](./assets/images/Solution_Screenshot.png)
+<br>
+![This is the second solution screenshot for the Horiseon webpage](./assets/images/Solution_Screenshot2.png)
+<br>
+![This is the third solution screenshot for the Horiseon webpage](./assets/images/Solution_Screenshot3.png)
+<br>
+
 ## Installation 
 
 No installation required. 
