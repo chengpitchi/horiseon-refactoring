@@ -1,9 +1,5 @@
 # Horiseon Refactoring Task 
 
-## Description
-
-This is the Challenge after completing the Unit 1 of Adelaide University Coding Bootcamp. 
-
 ## User Story
 
 AS A marketing agency <br>
